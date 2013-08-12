@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.example.gittest;
+package com.example.test1;
 
 public final class R {
     public static final class attr {

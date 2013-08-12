@@ -1,4 +1,4 @@
-package com.example.gittest;
+package com.example.test1;
 
 import android.os.Bundle;
 import android.app.Activity;
